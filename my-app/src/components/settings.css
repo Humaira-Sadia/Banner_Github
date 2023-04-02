@@ -1,0 +1,47 @@
+#setting{
+    background-color: #030303;
+    /* border: 1px solid #0B0705; */
+    width: 35%;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+.sub{
+    padding: 0 1rem 0 1rem;
+    /* margin-top: -1rem; */
+    height: 4rem;
+    background-color: #0A0806;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+}
+.sub h2{
+    margin-top: 0.4rem;
+}
+
+.inputs{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    margin-top: 1.3rem;
+}
+
+.inputs input{
+    padding: 1rem;
+    margin-right: 12px;
+    margin-left: 12px;
+    border-radius: 20px;
+    font-size: 15px;
+    border: 2px solid #fff;
+    width: 432px;
+}
+
+.picker{
+    background: pink;
+    height: 70px;
+    margin-top: 18px;
+}
